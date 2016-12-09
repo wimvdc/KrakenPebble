@@ -1,0 +1,49 @@
+{
+    "author": "CastleWare & LedegenWare",
+    "dependencies": {},
+    "keywords": [
+        "pebble-app"
+    ],
+    "name": "kraken.com",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "Kraken.com",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "APP_READY",
+            "ACCESS_TOKEN",
+            "BALANCE_ETH",
+            "BALANCE_EUR",
+            "LOW",
+            "HIGH",
+            "CURRENT"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/ICON",
+                    "menuIcon": true,
+                    "name": "ICON",
+                    "targetPlatforms": [
+                        "diorite",
+                        "emery"
+                    ],
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "diorite",
+            "emery"
+        ],
+        "uuid": "60dac362-3888-436d-96d2-17cb9d585033",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "0.1.0"
+}
