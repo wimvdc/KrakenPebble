@@ -5,4 +5,4 @@ Kraken.com app for Pebble (Time) 2 (DIORITE and EMERY)
 ![Screenshot 1](https://github.com/wimvdc/KrakenPebble/blob/master/sc1.png)
 ![Screenshot 2](https://github.com/wimvdc/KrakenPebble/blob/master/sc2.png)
 
-Thanks to @SanderLedegen for the C part!
+Thanks to [@SanderLedegen](https://github.com/SanderLedegen) for the C part!
